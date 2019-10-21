@@ -9,3 +9,20 @@
     float: right;
    
 }
+
+.vl {
+  border-left: 1px solid grey;
+  height: 500px;
+  position: absolute;
+  left: 50%;
+  margin-left: -3px;
+  top: 0;
+}
+
+.margin_top{
+    margin: 20px;
+}
+
+.correct{
+    color:green;
+}
